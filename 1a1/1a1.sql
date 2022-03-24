@@ -4,9 +4,9 @@
 	y una cara pertenecer a una sola persona	
 */
 
-CREATE DATABASE 1a1
+CREATE DATABASE UnoaUno
 GO
-USE 1a1
+USE UnoaUno
 GO
 CREATE TABLE PERSONA(
     ID BIGINT PRIMARY KEY NOT NULL IDENTITY(1,1),
